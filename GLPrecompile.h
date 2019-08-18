@@ -33,8 +33,3 @@
 #endif
  
 #endif /* GLPrecompile_hpp */
---------------------- 
-作者：周旭光 
-来源：CSDN 
-原文：https://blog.csdn.net/zhouxuguang236/article/details/53241252 
-版权声明：本文为博主原创文章，转载请附上博文链接！
